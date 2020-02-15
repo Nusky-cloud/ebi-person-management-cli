@@ -2,7 +2,7 @@
 
 This repository contains the command line client for person management. You can create, update, view and delete person data using this command line client. 
 
-**NOTE :** Before running this client, you need to run the **REST API** from the repository : <repository-link>
+**NOTE :** Before running this client, you need to run the **REST API** from the repository : https://github.com/Nusky-cloud/ebi-masterdata-person-api.git
 
 # How to run?
 
@@ -24,7 +24,7 @@ pip install requests=2.22.0
 
 - First, clone this repository on your computer or download as a zip file.
 ```shell
-url
+git clone https://github.com/Nusky-cloud/ebi-person-management-cli.git
 ```
 
 - After that, open a console and change directory to project root and execute below command. This will run the client.
