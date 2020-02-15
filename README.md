@@ -1,6 +1,6 @@
-# Command line client for person management
+# Command line client for EBI person management
 
-This repository contains the command line client for person management. You can create, update, view and delete person data using this command line client. 
+This repository contains the command line client for EBI person management. You can create, update, view and delete person data using this command line client. 
 
 **NOTE :** Before running this client, you need to run the **REST API** from the repository : https://github.com/Nusky-cloud/ebi-masterdata-person-api.git
 
