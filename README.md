@@ -11,10 +11,13 @@ This repository contains the command line client for person management. You can 
 For running the client you need:
 
 - [Python 3.8.1](https://www.python.org/downloads)
+- Pip 19.2.3
 
-Execute below command in a console and verify the installation.
+**NOTE :** Pip will be installed with Python. You can check the Python and Pip version in a console by **python --version** and **pip --version** respectively.
+
+After that, execute below command in a console.
 ```shell
-python --version
+pip install requests=2.22.0
 ```
 
 ## Running
